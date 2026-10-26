@@ -41,4 +41,4 @@ Software de escritorio orientado a la gestión administrativa y control de cobra
 ---
 
 ##  Autora
-* **Heidys Ríos** - Diseño de Interfaz & Desarrollo de Software
+* **Heidys Ríos** - Diseño de Interfaz 
